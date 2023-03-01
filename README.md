@@ -1,5 +1,8 @@
 # ShadersOfLife
 
+This is a Unity game that is inspired by title "What remains of edith finch". 
+This game has total of 5 minigames which has both 2D and 3D aspect, and 2 endings depend on player's choices.
+
 Walkthrough chapter 1: https://youtu.be/SK5sALZBPOA
 
 Walkthrough chapter 2: https://youtu.be/dYsKp-SmszU
